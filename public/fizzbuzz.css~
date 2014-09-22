@@ -1,0 +1,16 @@
+fizz{
+  color: red;
+  font-family:verdana, sans-serif;
+  font-size: 20em;
+}
+buzz{
+  color: yellow;
+  font-family: verdana, sans-serif;
+  font-size: 20em;
+}
+html{
+  text-align: center;
+}
+body{
+	background-color: #87CEEB
+}

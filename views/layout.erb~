@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The fizz_buzz...Game of the dead </title>
+    <link rel="stylesheet" type="text/css" href="/fizzbuzz.css"/>
+  </head>
+  <body>
+    <%= yield %>
+
+<p>test</p>
+    </body>
+  <footer>
+    <a href="/index">Retour</a>
+  </footer>
+</html>
+
